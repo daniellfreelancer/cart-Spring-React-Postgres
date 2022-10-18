@@ -1,1 +1,1 @@
-# Crud made with Spring + MongoDB + React.js
+# Crud made with Spring + PostgreSQL + React.js
